@@ -1,0 +1,14 @@
+C:\CSharpAssignment\bin\Debug\net9.0\CSharpAssignment.exe
+C:\CSharpAssignment\bin\Debug\net9.0\CSharpAssignment.deps.json
+C:\CSharpAssignment\bin\Debug\net9.0\CSharpAssignment.runtimeconfig.json
+C:\CSharpAssignment\bin\Debug\net9.0\CSharpAssignment.dll
+C:\CSharpAssignment\bin\Debug\net9.0\CSharpAssignment.pdb
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.AssemblyInfoInputs.cache
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.AssemblyInfo.cs
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.dll
+C:\CSharpAssignment\obj\Debug\net9.0\refint\CSharpAssignment.dll
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.pdb
+C:\CSharpAssignment\obj\Debug\net9.0\CSharpAssignment.genruntimeconfig.cache
+C:\CSharpAssignment\obj\Debug\net9.0\ref\CSharpAssignment.dll
